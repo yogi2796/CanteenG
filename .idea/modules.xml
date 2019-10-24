@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/iDelivery.iml" filepath="$PROJECT_DIR$/iDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanteenG/CanteenG.iml" filepath="$PROJECT_DIR$/CanteenG/CanteenG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanteenG/app.iml" filepath="$PROJECT_DIR$/CanteenG/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food_delivery_client_app - Copy.iml" filepath="$PROJECT_DIR$/food_delivery_client_app - Copy.iml" />
     </modules>
   </component>
 </project>
