@@ -22,7 +22,7 @@ public class CartViewHolder extends RecyclerView.ViewHolder implements View.OnCl
     public RelativeLayout view_background;
     public LinearLayout view_foreground;
 
-    private ItemClickListener itemClickListener;
+
 
     public void setTxt_cart_name(TextView txt_cart_name){
         this.txt_cart_name = txt_cart_name;
